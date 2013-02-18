@@ -8,7 +8,7 @@ Jekyll is a simple, blog aware, static site generator. It takes a template direc
 
 h2. 入门
 
-* "安装":http://wiki.github.com/nosy/jekyll/usage gem
+* "安装":http://wiki.github.com/nosy/jekyll/install gem
 * "使用":http://wiki.github.com/nosy/jekyll/usage 和 "配置":http://wiki.github.com/nosy/jekyll/configuration
 * 看一看现有的 "站点":http://wiki.github.com/nosy/jekyll/sites
 * 分支 和 "贡献":http://wiki.github.com/nosy/jekyll/contribute 你自己修改
