@@ -8,19 +8,19 @@ Jekyll is a simple, blog aware, static site generator. It takes a template direc
 
 h2. 入门
 
-* "安装":https://github.com/nosy/jekyll/wiki/%E5%AE%89%E8%A3%85 gem
-* "使用":http://wiki.github.com/mojombo/jekyll/usage 和 "配置":http://wiki.github.com/mojombo/jekyll/configuration
-* 看一看现有的 "站点":http://wiki.github.com/mojombo/jekyll/sites
-* 分支 和 "贡献":http://wiki.github.com/mojombo/jekyll/contribute 你自己修改
+* "安装":http://wiki.github.com/nosy/jekyll/usage gem
+* "使用":http://wiki.github.com/nosy/jekyll/usage 和 "配置":http://wiki.github.com/nosy/jekyll/configuration
+* 看一看现有的 "站点":http://wiki.github.com/nosy/jekyll/sites
+* 分支 和 "贡献":http://wiki.github.com/nosy/jekyll/contribute 你自己修改
 * 还有问题吗? 发到这个 "邮件列表":http://groups.google.com/group/jekyll-rb
 
 h2. 跳水
 
-* "Migrate":http://wiki.github.com/mojombo/jekyll/blog-migrations from your previous system
-* Learn how the "YAML Front Matter":http://wiki.github.com/mojombo/jekyll/yaml-front-matter works
-* Put information on your site with "Template Data":http://wiki.github.com/mojombo/jekyll/template-data
-* Customize the "Permalinks":http://wiki.github.com/mojombo/jekyll/permalinks your posts are generated with
-* Use the built-in "Liquid Extensions":http://wiki.github.com/mojombo/jekyll/liquid-extensions to make your life easier
+* "Migrate":http://wiki.github.com/nosy/jekyll/blog-migrations from your previous system
+* Learn how the "YAML Front Matter":http://wiki.github.com/nosy/jekyll/yaml-front-matter works
+* Put information on your site with "Template Data":http://wiki.github.com/nosy/jekyll/template-data
+* Customize the "Permalinks":http://wiki.github.com/nosy/jekyll/permalinks your posts are generated with
+* Use the built-in "Liquid Extensions":http://wiki.github.com/nosy/jekyll/liquid-extensions to make your life easier
 
 h2. 运行时依赖
 
