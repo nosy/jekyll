@@ -8,8 +8,8 @@ Jekyll is a simple, blog aware, static site generator. It takes a template direc
 
 h2. 入门
 
-* "安装":http://wiki.github.com/mojombo/jekyll/install the gem
-* "使用":http://wiki.github.com/mojombo/jekyll/usage and "配置":http://wiki.github.com/mojombo/jekyll/configuration
+* "安装":http://wiki.github.com/mojombo/jekyll/install gem
+* "使用":http://wiki.github.com/mojombo/jekyll/usage 和 "配置":http://wiki.github.com/mojombo/jekyll/configuration
 * 看一看现有的"站点":http://wiki.github.com/mojombo/jekyll/sites
 * 分支 和 "贡献":http://wiki.github.com/mojombo/jekyll/contribute your own modifications
 * 还有问题吗? 发到这个 "邮件列表":http://groups.google.com/group/jekyll-rb
