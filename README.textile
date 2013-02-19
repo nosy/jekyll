@@ -26,7 +26,7 @@ h2. 运行时依赖
 
 * Classifier: 生成相关的帖子 (Ruby)
 * Directory Watcher: 网站的自动再生 (Ruby)
-* Kramdown: Markdown-superset converter (Ruby)
+* Kramdown: Markdown-superset 转换器 (Ruby)
 * Liquid: 模板系统 (Ruby)
 * Maruku: 默认markdown引擎 (Ruby)
 * Pygments: 语法高亮 (Python)
@@ -34,10 +34,10 @@ h2. 运行时依赖
 h2. 开发人员的依赖
 
 * RDiscount: Discount Markdown Processor (Ruby)
-* RedCloth: Textile support (Ruby)
-* RedGreen: Nicer test output (Ruby)
-* RR: Mocking (Ruby)
-* Shoulda: Test framework (Ruby)
+* RedCloth: Textile 支持 (Ruby)
+* RedGreen: 良好的测试输出 (Ruby)
+* RR: 嘲笑 (Ruby)
+* Shoulda: 测试框架 (Ruby)
 
 h2. 许可证
 
