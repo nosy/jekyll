@@ -16,20 +16,20 @@ h2. 入门
 
 h2. 跳水
 
-* "Migrate":http://wiki.github.com/nosy/jekyll/blog-migrations from your previous system
-* Learn how the "YAML Front Matter":http://wiki.github.com/nosy/jekyll/yaml-front-matter works
-* Put information on your site with "Template Data":http://wiki.github.com/nosy/jekyll/template-data
-* Customize the "Permalinks":http://wiki.github.com/nosy/jekyll/permalinks your posts are generated with
-* Use the built-in "Liquid Extensions":http://wiki.github.com/nosy/jekyll/liquid-extensions to make your life easier
+* 从旧系统 "移植":http://wiki.github.com/nosy/jekyll/blog-migrations
+* 学习 "YAML Front Matter" 如何工作:http://wiki.github.com/nosy/jekyll/yaml-front-matter
+* 使用 "Template Data":http://wiki.github.com/nosy/jekyll/template-data 在你的站点上放置信息
+* 自定义 "Permalinks":http://wiki.github.com/nosy/jekyll/permalinks 生成你的帖子
+* 使用内置的 "Liquid Extensions":http://wiki.github.com/nosy/jekyll/liquid-extensions 让您的生活更轻松
 
 h2. 运行时依赖
 
-* Classifier: Generating related posts (Ruby)
-* Directory Watcher: Auto-regeneration of sites (Ruby)
+* Classifier: 生成相关的帖子 (Ruby)
+* Directory Watcher: 网站的自动再生 (Ruby)
 * Kramdown: Markdown-superset converter (Ruby)
-* Liquid: Templating system (Ruby)
-* Maruku: Default markdown engine (Ruby)
-* Pygments: Syntax highlighting (Python)
+* Liquid: 模板系统 (Ruby)
+* Maruku: 默认markdown引擎 (Ruby)
+* Pygments: 语法高亮 (Python)
 
 h2. 开发人员的依赖
 
