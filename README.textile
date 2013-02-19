@@ -17,7 +17,7 @@ h2. 入门
 h2. 跳水
 
 * 从旧系统 "移植":http://wiki.github.com/nosy/jekyll/blog-migrations
-* 学习 "YAML Front Matter" :http://wiki.github.com/nosy/jekyll/yaml-front-matter 如何工作
+* 学习 "YAML Front Matter":http://wiki.github.com/nosy/jekyll/yaml-front-matter 如何工作
 * 使用 "Template Data":http://wiki.github.com/nosy/jekyll/template-data 在你的站点上放置信息
 * 自定义 "Permalinks":http://wiki.github.com/nosy/jekyll/permalinks 生成你的帖子
 * 使用内置的 "Liquid Extensions":http://wiki.github.com/nosy/jekyll/liquid-extensions 让您的生活更轻松
